@@ -19,6 +19,10 @@ public class ChatGPTController {
 
     @PostMapping("/post-text")
     public Mono<String> postText(@RequestBody String inputText) {
-        return chatGPTService.generateAnswer(inputText);
+        try {
+            return chatGPTService.generateAnswer(inputText);
+        } catch (final Exception ex) {
+            throw new RuntimeException("Error to execute Chat GPT Integration: ".concat(ex.getMessage()), ex);
+        }
     }
 }
