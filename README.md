@@ -1,7 +1,7 @@
 # ChatGPT API Integration
 
 ## CS50
->This was my final project for conclude the CS50 Introduction to Computer Sciense course.
+>This was my final project for conclude the CS50 Introduction to Computer Science course.
 
 ## Features
 
@@ -41,14 +41,14 @@ In my application, you will find a simple Rest API, This API has the capability 
 3) Notice, that we're using the chatGPT in the model `GPT-3.5` any different model could break up the answer.
 
 ## Demonstration on youtube
-For the CS50 final project you have to make a video showning your project,
+For the CS50 final project you have to make a video showing your project,
 [Final Project presentation](tobechange)
 
 ## Conclusion
 My thoughts about this project were basically to show you how we can create an easy and quick integration with AI using chatGPT, Besides you use the best HTTP verbs practice, unit test, and a clear and simple code structure.
 
 ## About CS50
-CS50 is a openware course from Havard University and taught by David J. Malan
+CS50 is a opener course from Harvard University and taught by David J. Milan
 
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript (for web development).
 
