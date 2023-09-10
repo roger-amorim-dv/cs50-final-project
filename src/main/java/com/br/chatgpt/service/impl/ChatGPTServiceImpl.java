@@ -1,4 +1,4 @@
-package com.br.chatgpt.serice.impl;
+package com.br.chatgpt.service.impl;
 
 import com.br.chatgpt.client.ChatGPTClient;
 import com.br.chatgpt.service.ChatGPTService;
