@@ -42,7 +42,7 @@ In my application, you will find a simple Rest API, This API has the capability 
 
 ## Demonstration on youtube
 For the CS50 final project you have to make a video showing your project,
-[Final Project presentation](tobechange)
+[Final Project presentation](https://youtu.be/SVD3V5_k4IY).
 
 ## Conclusion
 My thoughts about this project were basically to show you how we can create an easy and quick integration with AI using chatGPT, Besides you use the best HTTP verbs practice, unit test, and a clear and simple code structure.
